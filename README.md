@@ -22,3 +22,30 @@ The primary objective of this project is to analyze the Air Quality dataset usin
 
 ## 📂 Project Structure
 
+## 🧠 Implementation Highlights
+
+### 1️⃣ Data Preprocessing
+
+- Handled missing values and standardized the dataset to prepare for analysis.
+- Explored data distributions and correlations among variables.
+
+### 2️⃣ Dimensionality Reduction
+
+- Applied PCA to identify principal components that capture the most variance in the data.
+- Analyzed the contribution of each original variable to the principal components.
+
+### 3️⃣ Visualization
+
+- Plotted scree plots to determine the optimal number of components.
+- Created biplots and scatter plots to visualize the data in reduced dimensions.
+
+---
+
+## 📈 Key Insights
+
+- PCA effectively reduced the dataset's dimensionality, highlighting key factors influencing air quality.
+- Visualization of principal components revealed distinct patterns and groupings within the data.
+- The analysis provided a clearer understanding of the relationships between different pollutants and environmental conditions.
+
+---
+
