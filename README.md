@@ -20,9 +20,7 @@ The primary objective of this project is to analyze the Air Quality dataset usin
 
 ---
 
-## 📂 Project Structure
-
-## 🧠 Implementation Highlights
+## 📂 Project Structure & 🧠 Implementation Highlights
 
 ### 1️⃣ Data Preprocessing
 
